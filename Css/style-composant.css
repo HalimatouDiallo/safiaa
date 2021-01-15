@@ -129,8 +129,8 @@ body {
 
 @media only screen and (max-width: 767px){
   body{
-    background-image: none !important;
-    background-color: #1391c3;
+    /*background-image: none !important;
+    background-color: #1391c3;*/
   }
   .container{
     padding: 20px !important;
